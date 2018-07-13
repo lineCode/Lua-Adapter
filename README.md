@@ -6,7 +6,7 @@ Usage:
       LuaAdapter lua{"test.lua"};
 
       int width {0};
-      lua.Get("width", width);  // width=600
+      lua.Get("width", width); // width=600
 » see [test.cpp](https://github.com/JlnWntr/Lua-Adapter/blob/master/test.cpp) for more examples
 
 Compile & test:
